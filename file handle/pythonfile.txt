@@ -1,0 +1,6 @@
+Python write to file
+
+
+#This Content is added through the program
+ hello
+ hello

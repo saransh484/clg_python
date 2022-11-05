@@ -1,0 +1,5 @@
+principal = float(input("Enter the principal amount:"))
+rate = float(input("Enter the interest rate:"))
+time = float(input("Enter the number of yrs:"))
+CI = principal*(pow((1 + rate / 100), time))
+print("Compound Interest:",CI)
