@@ -1,0 +1,10 @@
+def details(name,roll,branch,stream):
+    print("Student name=>",name)
+    print("")
+    print("Student Enrollment number=>",roll)
+    print("")
+    print("student Branch=>",branch)
+    print("")
+    print("Student Stream=>",stream)
+    print("")
+details(name="Saransh",roll="20100BTCSAII07183",branch="CSE-AI",stream="Btech")
